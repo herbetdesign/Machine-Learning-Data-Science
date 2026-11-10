@@ -2,6 +2,10 @@
 
 > **Status:** análise executada no Kaggle; resultados registrados a partir da execução da versão 4 do notebook.
 
+## Notebook publicado
+
+Acesse o notebook no Kaggle: [Atrasos de entrega e avaliação dos clientes](https://www.kaggle.com/code/herbetdossantossilva/notebookf9534d4032).
+
 ## Resumo
 
 Este artigo analisa a relação descritiva entre atrasos de entrega e avaliações dos clientes no Brazilian E-Commerce Public Dataset by Olist. Na amostra analisada, pedidos entregues após a data estimada tiveram nota média inferior à dos pedidos entregues no prazo ou antes. O resultado descreve uma associação na amostra; não demonstra causalidade.
@@ -51,6 +55,6 @@ Os resultados mostram uma associação entre atraso e notas menores nesta amostr
 
 ## Reprodutibilidade e atribuição
 
-Notebook: `notebooks/olist_delivery_analysis.ipynb`.
+Notebook do projeto no GitHub: `notebooks/olist_delivery_analysis.ipynb`.
 
 Fonte: [Olist, Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce). Consulte a página da fonte para atribuição e termos da licença CC BY-NC-SA 4.0.

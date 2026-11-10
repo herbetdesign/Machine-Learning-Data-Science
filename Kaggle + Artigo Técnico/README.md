@@ -2,6 +2,10 @@
 
 Projeto de análise exploratória de dados sobre desempenho de entregas e avaliações de clientes, usando o [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
+## Notebook no Kaggle
+
+Acesse o notebook: [Atrasos de entrega e avaliação dos clientes](https://www.kaggle.com/code/herbetdossantossilva/notebookf9534d4032).
+
 ## Pergunta de análise
 
 O que aparece associado a atrasos nas entregas e à avaliação dos clientes?
@@ -17,7 +21,7 @@ No Kaggle, crie um notebook, escolha **Add Input**, pesquise por **Brazilian E-C
 ## Conteúdo
 
 - `notebooks/olist_delivery_analysis.ipynb`: carregamento, verificações de qualidade, análise de atrasos e relação descritiva com avaliações.
-- `docs/artigo-tecnico.md`: estrutura do artigo. Complete a seção de resultados depois de executar o notebook.
+- `docs/artigo-tecnico.md`: resultados da análise e limitações.
 - `requirements.txt`: dependências para execução local.
 
 ## Execução local no Windows
